@@ -1,0 +1,7 @@
+div{
+    width: 1300px;height: 600px;
+    background-color: #5aa784;
+    margin: auto;
+    background-image: url("matur.jpg");
+    background-size: contain;
+}
